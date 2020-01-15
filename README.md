@@ -4,5 +4,5 @@
 * [Linear Vector Spaces]
 * [Function Space, Orthogonal Polynomials, and Fourier Analysis]
 * [Differential Equations]
-  * [Ordinary Diffenential Equations]
+  * [Ordinary Differential Equations]
   * [Introduction to Partial Differential Equations]
